@@ -1,0 +1,4 @@
+[
+  "tests/test_tasks.py::test_create_task",
+  "tests/test_tasks.py::test_get_task"
+]
